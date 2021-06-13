@@ -1,0 +1,28 @@
+#fond {
+    background: #7d62625c;
+    width: 80%;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+#titre {
+    background: #7d62625c;
+    width: 100%;  
+    height: 100px;
+    padding-top: 50px;
+}
+
+h2 {
+    background: #7d62625c;
+    padding: 10px;
+}
+
+.gauche {
+    text-align: left;
+    margin-left: 25%;
+}
+
+.droite {
+    text-align: right;
+    margin-right: 25%;
+}

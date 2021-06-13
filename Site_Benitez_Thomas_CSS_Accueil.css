@@ -1,0 +1,12 @@
+#Bienvenue {
+    font-size: 50px;
+    text-align: center;
+}
+
+#Logo {
+    display: block;
+    margin: auto;
+    margin-top: 0px;
+    width: 702px;
+    height: 702px;
+}

@@ -1,0 +1,38 @@
+body {
+    background: #C0DCE2;
+    background-image: url("Images/Hilarius_Logo_Fond.png");
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+p, h3 {
+    color: rgb(64, 60, 10);
+}
+
+h1,h2 {
+    color: rgb(118, 28, 21);
+}
+
+
+#Background {
+    background-repeat: repeat;
+    background-color: #C0DCE2;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+}
+
+.button {
+    text-align: center;
+}
+
+button:hover {
+    background: #7d6262;
+    color: rgb(232, 241, 46);
+}
